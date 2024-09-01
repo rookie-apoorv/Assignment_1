@@ -15,4 +15,4 @@
 	### Plots
 			This folder contains all other plots used in the report.
 
-	The data files *JEEDemograpic.csv* and *StateInfo.csv* is added for completeness.
+	The data files *JEEDemograpic.csv* and *StateInfo.csv* are added for completeness.
