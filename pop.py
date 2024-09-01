@@ -6,3 +6,5 @@ import matplotlib as plt
 jee = pd.read_csv('JEEDemographics.csv')
 state = pd.read_csv('StateInfo.csv')
 
+dataframe = pd.DataFrame(jee, columns=['Origin','cpi','rank'])
+matrix = dataframe.corr()
